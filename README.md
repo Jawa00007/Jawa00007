@@ -39,14 +39,23 @@ Led/delivered as Technical Project Manager and database engineer — proprietary
 
 ---
 
-### 🏥 Open-Source / Personal Projects
+### 🚀 Featured Projects
 
 **PharmaPulse** — mobile-responsive pharmacy management system (PHP + MySQL), built as part of a 5-person team project. Inventory with FEFO tracking, POS, role-based access, expiry/profit reporting.
 ![PHP](https://img.shields.io/badge/PHP-8.3+-777BB4?style=flat&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-8.0+-4479A1?style=flat&logo=mysql&logoColor=white)
 🔗 [Repo](https://github.com/Jawa00007/PharmaPulse) &nbsp;·&nbsp; 🌐 [Live demo](https://green-spider-729183.hostingersite.com/)
 
-**hrms-railway-deploy** — deployment/configuration of the open-source [Frappe HRMS](https://github.com/frappe/hrms) on Railway *(fork-based, not original authorship)*.
-🔗 [Repo](https://github.com/Jawa00007/hrms-railway-deploy)
+**cloudbased-xml** — SII electricity measurement XML ingestion and analytics platform.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+🔗 [Repo](https://github.com/Jawa00007/cloudbased-xml)
+
+**sfe-terna-forecast** — Sbilanciamento Forecast Engine: Terna imbalance sign & price forecasting.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+🔗 [Repo](https://github.com/Jawa00007/sfe-terna-forecast)
+
+**ema-200-cross-alert** — 200-EMA cross alert bot for XAUUSD/EURUSD/GBPUSD, via Tiingo + Telegram + scheduled GitHub Actions.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+🔗 [Repo](https://github.com/Jawa00007/ema-200-cross-alert)
 
 ---
 
@@ -54,29 +63,6 @@ Led/delivered as Technical Project Manager and database engineer — proprietary
 
 <img src="https://github-readme-stats.vercel.app/api?username=Jawa00007&show_icons=true&hide_border=true&count_private=true" alt="Jawa00007's GitHub stats" width="49%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jawa00007&hide_border=true" alt="Jawa00007's streak stats" width="49%" />
-
----
-
-### 🌐 Also building here
-
-<table>
-<tr>
-<td><a href="https://github.com/Jawa-ZynTech"><b>@Jawa-ZynTech</b></a></td>
-<td><img src="https://github-readme-stats.vercel.app/api?username=Jawa-ZynTech&hide_border=true&hide_rank=true&show_icons=true" height="70" /></td>
-</tr>
-<tr>
-<td><a href="https://github.com/jawadfarooq-a11y"><b>@jawadfarooq-a11y</b></a></td>
-<td><img src="https://github-readme-stats.vercel.app/api?username=jawadfarooq-a11y&hide_border=true&hide_rank=true&show_icons=true" height="70" /></td>
-</tr>
-<tr>
-<td><a href="https://github.com/STG-707"><b>@STG-707</b></a></td>
-<td><sub>no public repos yet</sub></td>
-</tr>
-<tr>
-<td><a href="https://github.com/ZynTechnology"><b>ZynTechnology</b></a> <sub>(organization)</sub></td>
-<td>—</td>
-</tr>
-</table>
 
 ---
 
