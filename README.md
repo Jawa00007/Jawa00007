@@ -13,14 +13,9 @@
 
 Technical Project Manager with a background in SQL database engineering, delivering software and AI projects across enterprise and client environments. Skilled in Agile/Scrum, stakeholder management, and end-to-end delivery — with the hands-on ability to design the database, review the code, and ship the thing myself when needed.
 
-![Project Management](https://img.shields.io/badge/-Project%20Management-0A66C2?style=flat)
-![Agile/Scrum](https://img.shields.io/badge/-Agile%2FScrum-0A66C2?style=flat)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+Project Management · Agile/Scrum · Stakeholder Management
+
+<img src="https://skillicons.dev/icons?i=php,mysql,postgres,docker,aws,python" alt="PHP, MySQL, PostgreSQL, Docker, AWS, Python" />
 
 ---
 
